@@ -1,0 +1,14 @@
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\bin\Debug\net8.0\InverterCaracteresDeUmaString.exe
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\bin\Debug\net8.0\InverterCaracteresDeUmaString.deps.json
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\bin\Debug\net8.0\InverterCaracteresDeUmaString.runtimeconfig.json
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\bin\Debug\net8.0\InverterCaracteresDeUmaString.dll
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\bin\Debug\net8.0\InverterCaracteresDeUmaString.pdb
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.AssemblyInfoInputs.cache
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.AssemblyInfo.cs
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.csproj.CoreCompileInputs.cache
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.dll
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\refint\InverterCaracteresDeUmaString.dll
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.pdb
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\InverterCaracteresDeUmaString.genruntimeconfig.cache
+C:\Apps\Teste_Target\InverterCaracteresDeUmaString\obj\Debug\net8.0\ref\InverterCaracteresDeUmaString.dll

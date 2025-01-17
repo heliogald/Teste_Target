@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apps\\Teste_Target\\CodigoParaAnalisarOFaturamentoDiario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FB3B30-30D4-4F1B-8501-428881355762}|CodigoParaAnalisarOFaturamentoDiario.csproj|c:\\apps\\teste_target\\codigoparaanalisarofaturamentodiario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FB3B30-30D4-4F1B-8501-428881355762}|CodigoParaAnalisarOFaturamentoDiario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FB3B30-30D4-4F1B-8501-428881355762}|CodigoParaAnalisarOFaturamentoDiario.csproj|c:\\apps\\teste_target\\codigoparaanalisarofaturamentodiario\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FB3B30-30D4-4F1B-8501-428881355762}|CodigoParaAnalisarOFaturamentoDiario.csproj|solutionrelative:faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faturamento.cs",
+              "DocumentMoniker": "C:\\Apps\\Teste_Target\\CodigoParaAnalisarOFaturamentoDiario\\Faturamento.cs",
+              "RelativeDocumentMoniker": "Faturamento.cs",
+              "ToolTip": "C:\\Apps\\Teste_Target\\CodigoParaAnalisarOFaturamentoDiario\\Faturamento.cs",
+              "RelativeToolTip": "Faturamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:20:07.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Apps\\Teste_Target\\CodigoParaAnalisarOFaturamentoDiario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Apps\\Teste_Target\\CodigoParaAnalisarOFaturamentoDiario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:08:54.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

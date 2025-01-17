@@ -1,0 +1,14 @@
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\bin\Debug\net8.0\CalcularASequenciaDeFibonacci.exe
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\bin\Debug\net8.0\CalcularASequenciaDeFibonacci.deps.json
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\bin\Debug\net8.0\CalcularASequenciaDeFibonacci.runtimeconfig.json
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\bin\Debug\net8.0\CalcularASequenciaDeFibonacci.dll
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\bin\Debug\net8.0\CalcularASequenciaDeFibonacci.pdb
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.AssemblyInfoInputs.cache
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.AssemblyInfo.cs
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.dll
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\refint\CalcularASequenciaDeFibonacci.dll
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.pdb
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\CalcularASequenciaDeFibonacci.genruntimeconfig.cache
+C:\Apps\Teste_Target\CalcularASequenciaDeFibonacci\obj\Debug\net8.0\ref\CalcularASequenciaDeFibonacci.dll

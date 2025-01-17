@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBCgDvqoF3E=",
+  "success": true,
+  "projectFilePath": "C:\\Apps\\Teste_Target\\CalcularValorDaVariavelSoma\\CalcularValorDaVariavelSoma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helio\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.11\\microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "C:\\Users\\helio\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\helio\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
